@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a#forkme_banner {
+    display: none;
+}
+
+div#no-downloads {
+    width: 90%;
+    background-size: 100% 197px;
+    background-repeat: no-repeat no-repeat;
+}
+
+div#no-downloads  span.inner {
+    width: 100%;
+    max-width: none;
+    background-size: 100% 197px;
+    background-repeat: no-repeat no-repeat;
+}
+
+span.banner-fix {
+    display: none;
+}
+
+header {
+    width: 90%;
+    max-width: none;
+}
+
+div.shell {
+    width: 90%;
+}
+
+footer {
+    width: 90%;
+    max-width: none;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
