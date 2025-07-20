@@ -56,6 +56,21 @@ body {
   width: 100%;
 }
 
+/* 強調 */
+strong {
+  color: #071;
+}
+
+/* 引用 */
+blockquote {
+  background-color: #d8d9ea;
+  border-left: 4px solid #007acc;  // 左側のボーダー（オプション）
+  padding: 0  2rem;  // 内側の余白
+  margin: 0 0;  // 外側の余白
+  border-radius: 4px;  // 角を丸く（オプション）
+  white-space: pre-line;  // 改行文字を改行として表示
+}
+
 /* codeブロックの折り返し設定 */
 code {
   white-space: pre-wrap !important;
