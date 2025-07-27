@@ -71,6 +71,14 @@ blockquote {
   white-space: pre-line;  // 改行文字を改行として表示
 }
 
+pre {
+  margin: 20px 0 0 0;  // 外側の余白
+}
+
+p {
+  margin-top: 0
+}
+
 /* codeブロックの折り返し設定 */
 code {
   white-space: pre-wrap !important;
