@@ -1,0 +1,41 @@
+<mxfile host="65bd71144e">
+    <diagram id="GoAvXADjZ8QrfTVWUTYR" name="ベン図">
+        <mxGraphModel dx="896" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;strokeWidth=3;fontSize=20;fontStyle=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="30" width="310" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="B" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;fillOpacity=70;strokeColor=#f57c00;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="70" width="140" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="C" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f3e5f5;fillOpacity=70;strokeColor=#7b1fa2;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="70" width="140" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="B∩C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#d32f2f;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="130" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="B ⊆ A, C ⊆ A, B ∩ C ≠ ∅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#424242;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="250" width="200" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FFFFFF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="350" y="280" as="targetPoint"/>
+                        <mxPoint x="280" y="280" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="330" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FFFFFF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="75" y="10" as="targetPoint"/>
+                        <mxPoint x="5" y="10" as="sourcePoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
