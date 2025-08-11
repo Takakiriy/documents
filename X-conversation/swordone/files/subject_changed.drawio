@@ -1,0 +1,187 @@
+<mxfile host="65bd71144e">
+    <diagram id="xRdoTwZvirdtfvDg6jgX" name="Page-1">
+        <mxGraphModel dx="820" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="80" width="300" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="320" width="280" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="560" as="sourcePoint"/>
+                        <mxPoint x="80" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="427.5" y="320" width="280" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="90" width="300" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;A さんの発言&lt;/span&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="40" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Cさんはカレーが好きだと思う。Bさんはどう思う？&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="60" width="370" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;color: rgb(25, 118, 210); font-size: 12px; font-weight: 700;&quot;&gt;A&amp;nbsp;&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;さん&lt;/span&gt;の発言&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="90" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="120" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="508.33333333333337" y="220" as="sourcePoint"/>
+                        <mxPoint x="508.33333333333337" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="150" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Cさんは&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="120" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;カレーが好きだと思う。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Bさんはどう思う？&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="210" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="477.5" y="370" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="B さんの発言" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#7B1FA2;" parent="1" vertex="1">
+                    <mxGeometry x="437.5" y="320" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;私は&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="340" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="487.5" y="385" width="150" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;うどんが好きだと思う。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="487.5" y="385" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=block;endFill=1;startArrow=block;startFill=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="585" y="390" as="targetPoint"/>
+                        <mxPoint x="550" y="172" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;私はうどんが好きだと思う。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                    <mxGeometry x="427.5" y="290" width="182.5" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="B さんの発言" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#7B1FA2;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="270" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="513" y="173" as="targetPoint"/>
+                        <mxPoint x="590" y="173" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FFFFFF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="30" as="targetPoint"/>
+                        <mxPoint x="30" y="30" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FFFFFF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="460" as="targetPoint"/>
+                        <mxPoint x="650" y="460" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="210" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="533.5" y="413" as="targetPoint"/>
+                        <mxPoint x="610.5" y="413" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="キミの認識" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#CC6600;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="40" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="120" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="150" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Cさんは&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="120" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;カレーが好きだと思う。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="370" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;私は&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="42.5" y="340" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="385" width="150" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;うどんが好きだと思う。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="385" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FF0000;endArrow=block;endFill=1;startArrow=none;startFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="60">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="360" as="targetPoint"/>
+                        <mxPoint x="87" y="147" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="560" as="sourcePoint"/>
+                        <mxPoint x="270" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="主語を変えてる！（？）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="62.5" y="250" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;メインの文&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="470" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="endArrow=open;html=1;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="540" as="sourcePoint"/>
+                        <mxPoint x="270" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;従属節&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="510" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="endArrow=open;html=1;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="30" y="500" as="sourcePoint"/>
+                        <mxPoint x="310" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="30" y="560" as="sourcePoint"/>
+                        <mxPoint x="30" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="309" y="560" as="sourcePoint"/>
+                        <mxPoint x="309" y="435" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;メインの文の主語と、従属節の中の主語が併存しているのであって、文章の内容は主語も含めて変わっていません。&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;キミの認識を時系列で見ると&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;メインの文全体&lt;/span&gt;を認識（発言）「&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3BC%E3%81%95%E3%82%93%E3%81%AF%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%E3%80%82B%E3%81%95%E3%82%93%E3%81%AF%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%EF%BC%9F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dtop%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D11%3BfontColor%3D%234D4D4D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22410%22%20y%3D%2260%22%20width%3D%22370%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Cさんはカレーが好きだと思う。Bさんはどう思う？&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;」&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;　↓&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;メインの文について言われた「&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;私はうどんが好きだと思う。」&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3B%E7%A7%81%E3%81%AF%E3%81%86%E3%81%A9%E3%82%93%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%E3%80%82%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dtop%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D11%3BfontColor%3D%234D4D4D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22427.5%22%20y%3D%22290%22%20width%3D%22182.5%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E」&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;　↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;それを従属節について言われたと誤認識「貴方が好きなものを言うんじゃない！主語を変えるな！」&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="580" width="660" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
