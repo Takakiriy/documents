@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="xRdoTwZvirdtfvDg6jgX" name="Page-1">
-        <mxGraphModel dx="1060" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="922" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
-                    <mxGeometry x="210" y="460" width="410" height="180" as="geometry"/>
+                    <mxGeometry x="210" y="460" width="410" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="50" y="130" width="410" height="190" as="geometry"/>
@@ -55,7 +55,7 @@
                 <mxCell id="33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="230" y="490" width="240" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;と私が言ったことにいつのまにかなってる。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
+                <mxCell id="29" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;と私が言ったこと&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="240" y="565" width="270" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
@@ -64,11 +64,8 @@
                 <mxCell id="28" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;「抽象概念なんて関係ない」&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="270" y="525" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7B1FA2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="610" width="230" height="20" as="geometry"/>
-                </mxCell>
                 <mxCell id="30" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;だから私が示せるわけがない&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="605" width="150" height="20" as="geometry"/>
+                    <mxGeometry x="240" y="615" width="150" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#CC0000;endArrow=block;endFill=1;startArrow=block;startFill=1;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -118,146 +115,173 @@
                         <mxPoint x="940" y="880" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="520" y="30" width="480" height="310" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="540" y="80" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="618.3333333333334" y="200" as="sourcePoint"/>
                         <mxPoint x="618.3333333333334" y="200" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="50" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;掛け算の順序問題、反順序（順序はどちらでもいいだろ派）は、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;野球の話をしているのにメンタルなんか関係ないだろ！と言ってるようなものだな&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/Ts_Neko/status/1875799718850371950&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="50" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;掛け算の順序問題、反順序（順序はどちらでもいいだろ派）は、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;野球の話をしているのにメンタルなんか関係ないだろ！と言ってるようなものだな&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/Ts_Neko/status/1875799718850371950&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="550" y="80" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;抽象概念を学ぶことをメンタルにたとえています。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/Ts_Neko/status/1876147337661407295&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="51" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;抽象概念を学ぶことをメンタルにたとえています。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/Ts_Neko/status/1876147337661407295&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="550" y="140" width="340" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="52" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="550" y="160" as="targetPoint"/>
                         <mxPoint x="657" y="159.5" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;いや、あなたが言ったのは&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;「反順序は『野球(=数学)の話をしているのに&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;メンタル(=抽象概念)なんか&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;関係ないだろ』と言っている」ですよね？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;「抽象概念が関係ない」なんて誰が言ってるんですか？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/twinklepoker/status/1876475973887254597&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="53" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;いや、あなたが言ったのは&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;「反順序は『野球(=数学)の話をしているのに&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;メンタル(=抽象概念)なんか&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;関係ないだろ』と言っている」ですよね？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;「抽象概念が関係ない」なんて誰が言ってるんですか？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/twinklepoker/status/1876475973887254597&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="550" y="190" width="420" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;「抽象概念」と「抽象概念を学ぶこと」のどちらを示せばいい？&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/ts_neko/status/1953612582490931465&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="54" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;「抽象概念」と「抽象概念を学ぶこと」のどちらを示せばいい？&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;https://x.com/ts_neko/status/1953612582490931465&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="550" y="280" width="340" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="メインの話題" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" vertex="1" parent="1">
+                <mxCell id="55" value="メインの話題" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
                     <mxGeometry x="540" y="40" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="56" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="640" y="300" as="targetPoint"/>
                         <mxPoint x="747" y="299.5" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="57" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="57" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="560" y="300" as="targetPoint"/>
                         <mxPoint x="610" y="299.5" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="58" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="58" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="560" y="250.5" as="targetPoint"/>
                         <mxPoint x="610" y="250" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="59" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="606" y="235.5" as="targetPoint"/>
                         <mxPoint x="656" y="235" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="540" y="140" width="310" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="540" y="190" width="390" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="540" y="280" width="350" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=block;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="63" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#00CC66;endArrow=block;endFill=1;startArrow=none;startFill=0;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="545" y="169" as="targetPoint"/>
                         <mxPoint x="444" y="573" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="64" value="私が言ったことは上記「メンタル（抽象概念を学ぶこと）なんか関係ない」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#00CC66;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="64" value="私が言ったことは上記「メンタル（抽象概念を学ぶこと）なんか関係ない」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#00CC66;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="503" y="360" width="387" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="66" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=block;endFill=1;startArrow=block;startFill=1;entryX=0.188;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="28">
+                <mxCell id="66" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=block;endFill=1;startArrow=block;startFill=1;entryX=0.188;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="28" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="293" y="483" as="targetPoint"/>
                         <mxPoint x="180" y="260" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="67" value="Aは〜と言った" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" vertex="1" parent="1">
+                <mxCell id="67" value="Aは〜と言った" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
                     <mxGeometry x="40" y="690" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="50" y="720" width="220" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" value="&lt;span style=&quot;color: rgb(25, 118, 210); font-size: 12px; font-weight: 700;&quot;&gt;A&amp;nbsp;&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;さん&lt;/span&gt;の発言&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+                <mxCell id="69" value="&lt;span style=&quot;color: rgb(25, 118, 210); font-size: 12px; font-weight: 700;&quot;&gt;A&amp;nbsp;&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;さん&lt;/span&gt;の発言&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="60" y="720" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="71" value="Aは『Bが〜と言った』と言った" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" vertex="1" parent="1">
+                <mxCell id="71" value="Aは『Bが〜と言った』と言った" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
                     <mxGeometry x="320" y="690" width="240" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="330" y="720" width="220" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" value="&lt;span style=&quot;color: rgb(25, 118, 210); font-size: 12px; font-weight: 700;&quot;&gt;A&amp;nbsp;&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;さん&lt;/span&gt;の発言&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+                <mxCell id="73" value="&lt;span style=&quot;color: rgb(25, 118, 210); font-size: 12px; font-weight: 700;&quot;&gt;A&amp;nbsp;&lt;span style=&quot;color: rgb(25, 118, 210);&quot;&gt;さん&lt;/span&gt;の発言&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="340" y="720" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC66;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC66;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="350" y="747.5" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="75" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Bさんが&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="75" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Bさんが&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="360" y="747.5" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;〜&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="76" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;〜&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="405" y="777.5" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="373" y="777.5" width="97" height="22.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                <mxCell id="79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="90" y="780" width="80" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="70" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;〜&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="70" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;〜&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="115" y="777.5" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="81" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;部分的な主語「Bさんが」を含む枠（上記緑の枠）がある。&lt;br&gt;ただし、「Bさんが」はという言葉は省略されることもあるので、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;枠の有無で「Aは〜と言った」との違いを判別する。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="81" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;部分的な主語「Bさんが」を含む枠（上記緑の枠）がある。&lt;br&gt;ただし、「Bさんが」はという言葉は省略されることもあるので、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;枠の有無で「Aは〜と言った」との違いを判別する。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="340" y="850" width="330" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="82" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;部分的な主語&lt;/span&gt;の枠（&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;右記緑の枠&lt;/span&gt;）がない。&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;なお、この形の発言は、この図において、SwordOne さんもT&#39;s-Nekoもしていない。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                <mxCell id="82" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;部分的な主語&lt;/span&gt;の枠（&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;右記緑の枠&lt;/span&gt;）がない。&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;なお、この形の発言は、この図において、SwordOne さんもT&#39;s-Nekoもしていない。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="60" y="850" width="220" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="84" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="84" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="671.5" y="113" as="targetPoint"/>
                         <mxPoint x="718.5" y="112" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="86" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="86" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="664.5" y="159" as="targetPoint"/>
                         <mxPoint x="711.5" y="158" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="87" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                <mxCell id="87" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#994C00;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="549.5" y="236" as="targetPoint"/>
                         <mxPoint x="596.5" y="235" as="sourcePoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="88" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;にいつのまにかなってる。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="600" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="T0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="460" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="T1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="480" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="T2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="495" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="T3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="515" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="S0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="125" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="S1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="150" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="S2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="180" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="212.5" width="20" height="35" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
