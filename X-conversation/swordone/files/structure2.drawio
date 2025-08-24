@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="xRdoTwZvirdtfvDg6jgX" name="Page-1">
-        <mxGraphModel dx="922" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="922" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -116,7 +116,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="30" width="480" height="310" as="geometry"/>
+                    <mxGeometry x="520" y="30" width="480" height="350" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" parent="1" vertex="1">
                     <mxGeometry x="540" y="80" width="430" height="50" as="geometry"/>
@@ -188,7 +188,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="64" value="私が言ったことは上記「メンタル（抽象概念を学ぶこと）なんか関係ない」" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#00CC66;fontStyle=1" parent="1" vertex="1">
-                    <mxGeometry x="503" y="360" width="387" height="30" as="geometry"/>
+                    <mxGeometry x="490" y="380" width="387" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="66" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#0000FF;endArrow=block;endFill=1;startArrow=block;startFill=1;entryX=0.188;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="28" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -282,6 +282,12 @@
                 </mxCell>
                 <mxCell id="97" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
                     <mxGeometry x="320" y="212.5" width="20" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1976D2;strokeWidth=1;arcSize=7;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="330" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;で、待ちに待った反順序が言ってるメンタルなんか関係ないだろ！を示したのに&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;反応なし。&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;https://x.com/ts_neko/status/1955226133391389100&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="330" width="410" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
