@@ -1,0 +1,153 @@
+<mxfile host="65bd71144e" scale="1.5" border="10">
+    <diagram id="xRdoTwZvirdtfvDg6jgX" name="Page-1">
+        <mxGraphModel dx="1162" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;arcSize=7;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="522" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;arcSize=7;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="522" width="300" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="ゲルくんの発言" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=light-dark(#5aa31f, #efa0ff);fontFamily=Helvetica;autosize=1;resizable=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="40" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="SUO&gt; 「3+3+3+3」と「4+4+4」は、見てのとおり別物&#xa;&#xa;「見てのとおり」と言っているから、字面とそれが指す数学的対象の区別がついてないことが伺える。&#xa;3+3+3+3も4+4+4も、12が指す数学的対象と同一のものを指す。別物ではない。&#xa;https://x.com/esuthi_v2/status/1958826105713938484" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#336600;fontFamily=Helvetica;fontStyle=0;autosize=1;resizable=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="70" width="540" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="細かいことは置いといて、大枠としては、&#xa;  &gt; 字面とそれが指す数学的対象の区別がついてない&#xa;ではなく、&#xa;数学的対象ではないものと数学的対象との区別がついてない&#xa;もしくは、&#xa;字面や意味を数学的対象であると誤って認識している&#xa;というのがキミの意見ということでよろしいか？&#xa;https://x.com/Ts_Neko/status/1959450209672659167" style="text;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=none;strokeColor=none;spacingLeft=8;fontColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="70" width="340" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="なんだろ、しっくりこないけど、そういう理解で大枠あっていると思うよ。&#xa;https://x.com/esuthi_v2/status/1959450907659440385" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=#336600;spacingLeft=8;fontStyle=0;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="190" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="ならば、キミの定義↓を適用すると、数学的対象は、Nの元つまり計算結果であり、&#xa;計算結果ではないものと計算結果との区別がついてない&#xa;もしくは、&#xa;字面や意味を計算結果であると誤って認識している&#xa;がキミの意見になるけど、それでいいかい？&#xa;しっくりこない部分は後で追加説明して構わないよ。&#xa;https://x.com/Ts_Neko/status/1959471873097392216" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=#4C0099;spacingLeft=8;autosize=1;resizable=0;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="370" width="460" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="後者は明らかに違うね。&#xa;「順序派が意味と言っているものとは、式の字面から解釈した一意に決まらないもの」だと、&#xa;私は認識しているよ。&#xa;「Nekoちゃんは計算結果は一意に決まるものだと認識している」と私は思ってたけど、&#xa;私のその理解が間違ってたかな？&#xa;https://x.com/esuthi_v2/status/1959478669501698061" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=8;fontColor=#336600;fontStyle=0;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="480" width="490" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="計算結果" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="708" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="数学的対象" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="708" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="ほぼ同じ" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#808080;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="700" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#808080;startArrow=classic;startFill=1;align=left;verticalAlign=top;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="204" y="722.5" as="targetPoint"/>
+                        <mxPoint x="130" y="722.5" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="式" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="520" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="値（計算&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;結果&lt;/span&gt;）" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="550" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="意味（字面）" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="580" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="4+4+4や3+3+3+3" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="520" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="ℕの元" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="520" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="数学的対象" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="550" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="値" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="550" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="意味" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#808080;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="580" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="（数学の？）決まり" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#5aa31f, #efa0ff);fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="490" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="数学的対象ではないものと数学的対象との区別がついてない" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontFamily=Helvetica;fontSize=12;fontStyle=0;spacingLeft=8;rounded=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="280" width="350" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="順序派の扱い" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#7B1FA2;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="490" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="字面や意味を計算結果であると誤って認識している" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontFamily=Helvetica;fontSize=12;fontStyle=0;spacingLeft=8;fontColor=default;rounded=1;arcSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="315" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="計算結果ではないものと計算結果との区別がついてない" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontFamily=Helvetica;fontSize=12;fontStyle=0;spacingLeft=8;rounded=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="585" width="330" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="字面や意味を計算結果であると誤って認識している" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontFamily=Helvetica;fontSize=12;fontStyle=0;spacingLeft=8;rounded=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="620" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="← 後者は明らかに違うね。" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="990" y="620" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="ゲルくんの回答" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=light-dark(#5aa31f, #efa0ff);fontFamily=Helvetica;autosize=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="210" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="↓はNekoちゃんの質問ね。&#xa;https://x.com/Ts_Neko/status/1959237825787740486" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="240" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="&gt; 彼らは式が持つ情報は値と意味だと主張している。そう言う意味で数学的対象とは同一ではない。&#xa;これは、彼らが言う「式が持つ情報は値と意味だ」をキミが受け入れた場合、&#xa;キミは「式は数学的対象ではない」と考えている、と読めるけど、合ってますか？" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#4C0099;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="285" width="520" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="数学が式を(値=計算値,意味=字面)として扱うなら、彼らの考えを受け入れ、&#xa;その構造体のようなものを数学的対象だと考えるのはアリ。&#xa;&#xa;ここまでが回答。以下は私の主張。&#xa;しかし現実は、4+4+4や3+3+3+3はℕの元で、そのような構造体ではない。&#xa;つまり値は数学的対象だが、意味はそのような位置付けにはない。&#xa;順序派はそのような決まりにも関わらず、値と意味を構造体の中の対等なメンバ変数のように扱っている。&#xa;なので、それらの区別ができていないと批判している。&#xa;https://x.com/esuthi_v2/status/1961033014886187037" style="text;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="345" width="550" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="考えるのはアリ" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="625" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="現実" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="625" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="数学的対象のような位置付けにはない" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#808080;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="580" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;autosize=1;resizable=0;strokeColor=#0000FF;" edge="1" parent="1" source="122">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="470" y="670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="122" value="それらの区別ができていない" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#336600;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="655" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="" style="rounded=1;whiteSpace=wrap;fillColor=none;strokeColor=#9673a6;strokeWidth=1;arcSize=7;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="542" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="" style="rounded=1;whiteSpace=wrap;fillColor=none;strokeColor=#82b366;strokeWidth=1;arcSize=7;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="275" y="542" width="275" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="それらとは？" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#7B1FA2;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="655" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="" style="edgeStyle=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;autosize=1;resizable=0;strokeColor=#0000FF;exitX=0.802;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="127">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="550" y="604" as="sourcePoint"/>
+                        <mxPoint x="660" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="130" value="T&#39;s-Neko によるゲルくんの発言の確認" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#7B1FA2;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="40" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="字面とそれが指す数学的対象の区別がついてない" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=12;fontStyle=0;spacingLeft=8;rounded=1;arcSize=50;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="245" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" style="edgeStyle=none;html=1;fontSize=16;fontColor=#000000;strokeColor=#FF0000;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="684" as="targetPoint"/>
+                        <mxPoint x="570" y="684" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="（しばらくやり取りの後↓）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#808080;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="160" width="170" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
