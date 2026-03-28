@@ -1,6 +1,6 @@
 ### 未整理
 
-
+X-conversation の返事が必要かどうかは、見出しに 済）や 待ち）を書いて判定するとよい。
 
 時系列がある足し算
 https://ja.wikipedia.org/wiki/バタフライ効果
