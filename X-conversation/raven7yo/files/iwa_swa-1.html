@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>論理構成対応図</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
+    background: #f4f3ee;
+    padding: 32px 16px 48px;
+    color: #222;
+  }
+  h2 {
+    text-align: center;
+    font-size: 1.05em;
+    letter-spacing: 0.08em;
+    color: #444;
+    margin-bottom: 32px;
+  }
+
+.layout {
+display: grid;
+grid-template-columns: 1fr 80px 1fr;
+gap: 0;
+max-width: 820px;
+margin: 0 auto;
+align-items: start;
+}
+
+/* ===== 列ヘッダー ===== */
+.col-header {
+text-align: center;
+font-weight: bold;
+font-size: 0.9em;
+padding: 8px 12px 16px;
+border-radius: 8px 8px 0 0;
+}
+.col-header-a { color: #2d5fa0; }
+.col-header-b { color: #b05c18; }
+.col-header-mid { /* empty */ }
+
+/* ===== ノード ===== */
+.node {
+border-radius: 10px;
+padding: 12px 14px;
+font-size: 0.86em;
+line-height: 1.6;
+margin-bottom: 0;
+position: relative;
+}
+.node-a {
+background: #dce8fb;
+border: 2px solid #4a7fc1;
+}
+.node-b {
+background: #fde8d0;
+border: 2px solid #d4803a;
+}
+.node-a-weak {
+background: #fff;
+border: 2px dashed #4a7fc1;
+}
+.node-b-meta {
+background: #fdf6ee;
+border: 2px dashed #d4803a;
+}
+
+.tag {
+display: inline-block;
+border-radius: 4px;
+padding: 1px 8px;
+font-size: 0.72em;
+font-weight: bold;
+margin-bottom: 5px;
+}
+.tag-premise  { background: #b8d0f5; color: #1a3a70; }
+.tag-warrant  { background: #7aaae8; color: #fff; }
+.tag-claim    { background: #2d5fa0; color: #fff; }
+.tag-adhom    { background: #c0cfe8; color: #1a3a70; font-style: italic; }
+.tag-attack   { background: #d4803a; color: #fff; }
+.tag-rebuttal { background: #b05c18; color: #fff; }
+.tag-meta     { background: #e8c49a; color: #7a3a08; }
+
+/* ===== 縦の流れ矢印（A列内） ===== */
+.col-a, .col-b {
+display: flex;
+flex-direction: column;
+gap: 0;
+}
+
+.down-arrow {
+text-align: center;
+font-size: 1.3em;
+color: #999;
+padding: 4px 0;
+line-height: 1;
+}
+.down-arrow-a { color: #4a7fc1; }
+.down-arrow-b { color: #d4803a; }
+
+/* ===== 中央の対応矢印 ===== */
+.mid-col {
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 0;
+}
+
+/* 各行を揃えるために行単位でグリッドを組む */
+.row {
+display: contents;
+}
+
+/* ===== SVGオーバーレイ方式ではなく、行ごとにグリッドで配置 ===== */
+.grid-row {
+display: grid;
+grid-template-columns: 1fr 80px 1fr;
+align-items: center;
+max-width: 820px;
+margin: 0 auto;
+gap: 0 8px;
+}
+.grid-spacer {
+max-width: 820px;
+margin: 0 auto;
+display: grid;
+grid-template-columns: 1fr 80px 1fr;
+gap: 0 8px;
+}
+.spacer-line {
+display: flex;
+justify-content: center;
+padding: 3px 0;
+}
+.spacer-line-a { color: #4a7fc1; font-size: 1.2em; }
+.spacer-line-b { color: #d4803a; font-size: 1.2em; }
+
+/* 対応矢印 */
+.corr-arrow {
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 0.75em;
+color: #c0392b;
+font-weight: bold;
+text-align: center;
+line-height: 1.3;
+padding: 2px 0;
+}
+.corr-line {
+width: 60px;
+border-top: 2px solid #c0392b;
+position: relative;
+}
+.no-corr {
+/* empty cell */
+}
+
+/* ===== 凡例 ===== */
+.legend {
+max-width: 820px;
+margin: 28px auto 0;
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+font-size: 0.78em;
+color: #555;
+border-top: 1px solid #ccc;
+padding-top: 14px;
+}
+.legend-item {
+display: flex;
+align-items: center;
+gap: 5px;
+}
+.legend-arrow {
+display: inline-block;
+width: 32px;
+border-top: 2px solid #c0392b;
+}
+
+/* ===== 対応矢印（横線）SVGアプローチを使わず簡易CSSで ===== */
+.arrow-cell {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.h-arrow {
+display: flex;
+align-items: center;
+gap: 0;
+width: 100%;
+}
+.h-arrow-line {
+flex: 1;
+height: 2px;
+background: #c0392b;
+}
+.h-arrow-head {
+font-size: 1em;
+color: #c0392b;
+line-height: 1;
+}
+.h-arrow-label {
+position: absolute;
+font-size: 0.65em;
+color: #c0392b;
+white-space: nowrap;
+top: -14px;
+left: 50%;
+transform: translateX(-50%);
+font-weight: bold;
+}
+.arrow-wrap {
+position: relative;
+width: 100%;
+}
+</style>
+
+</head>
+<body>
+
+<h2>A の論理構成と B の反論の対応</h2>
+
+<!-- ============================================================
+     ヘッダー行
+============================================================ -->
+
+<div class="grid-row" style="margin-bottom:8px;">
+  <div class="col-header col-header-a" style="text-align:center;">A（批判者）</div>
+  <div></div>
+  <div class="col-header col-header-b" style="text-align:center;">B（反論者）</div>
+</div>
+
+<!-- ============================================================
+     行1: A-前提（事実主張） ←→ B-前提に反論 ＋ 含意（メタ批判）
+============================================================ -->
+
+<div class="grid-row">
+  <div class="node node-a">
+    <div><span class="tag tag-premise">前提（事実）</span></div>
+    「筆算に定規」は<br>学習指導要領に<br>記載されていない
+  </div>
+
+  <div class="arrow-cell">
+    <div class="arrow-wrap">
+      <span class="h-arrow-label">前提を反論</span>
+      <div class="h-arrow">
+        <div class="h-arrow-head">◀</div>
+        <div class="h-arrow-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; gap:6px;">
+    <div class="node node-b">
+      <div><span class="tag tag-attack">前提に反論</span></div>
+      学習指導要領は<br>具体的指導技術を<br>列挙する文書ではない
+    </div>
+    <div class="node node-b-meta">
+      <div><span class="tag tag-meta">含意（メタ批判）</span></div>
+      A は学習指導要領が<br>何を定める文書か<br>分かっていない
+    </div>
+  </div>
+</div>
+
+<!-- 下矢印 -->
+
+<div class="grid-spacer">
+  <div class="spacer-line spacer-line-a">↓</div>
+  <div></div>
+  <div class="spacer-line spacer-line-b">↓</div>
+</div>
+
+<!-- ============================================================
+     行3+4: A-論拠＋主張  ←→  B-反論（両方に対応）
+============================================================ -->
+
+<div class="grid-row" style="align-items: stretch;">
+
+  <!-- A列: 論拠と主張を縦に並べる -->
+
+  <div style="display:flex; flex-direction:column; gap:6px;">
+    <div class="node node-a-weak">
+      <div><span class="tag tag-warrant">論拠（暗黙）</span></div>
+      「載っていない」＝<br>「禁止・誤り」<br>
+      <span style="font-size:0.8em;color:#c0392b;">※ここが論理的弱点</span>
+    </div>
+    <div style="text-align:center; color:#4a7fc1; font-size:1.2em; line-height:1;">↓</div>
+    <div class="node node-a">
+      <div><span class="tag tag-claim">主張</span></div>
+      その指導（オレ流）を<br>するな
+    </div>
+  </div>
+
+  <!-- 中央: 矢印（縦中央に配置） -->
+
+  <div class="arrow-cell">
+    <div class="arrow-wrap">
+      <span class="h-arrow-label">論拠・主張を否定</span>
+      <div class="h-arrow">
+        <div class="h-arrow-head">◀</div>
+        <div class="h-arrow-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- B列: 反論 -->
+
+  <div class="node node-b" style="align-self: center;">
+    <div><span class="tag tag-rebuttal">反論</span></div>
+    具体的なことが載ってない文書に対して<br>「載っていない＝不正」<br>という論理は成立しない
+  </div>
+
+</div>
+
+<!-- 下矢印 A -->
+
+<div class="grid-spacer">
+  <div class="spacer-line spacer-line-a">↓</div>
+  <div></div>
+  <div></div>
+</div>
+
+<!-- ============================================================
+     行5: A-付言（ad hominem）  ←→  対応なし
+============================================================ -->
+
+<div class="grid-row">
+  <div class="node node-a-weak">
+    <div><span class="tag tag-adhom">付言（人格否定）</span></div>
+    「小学校教員並の知性」<br>しかない
+    <br><span style="font-size:0.78em;color:#888;">※論証ではなく侮辱</span>
+  </div>
+
+  <div class="arrow-cell" style="color:#aaa; font-size:0.75em; text-align:center;">
+    （直接の<br>対応なし）
+  </div>
+
+  <div style="/* 空 */"></div>
+</div>
+
+<!-- ============================================================
+     凡例
+============================================================ -->
+
+<div class="legend">
+  <div class="legend-item">
+    <span style="display:inline-block;width:14px;height:14px;background:#dce8fb;border:2px solid #4a7fc1;border-radius:3px;"></span>
+    A の構成要素（実線）
+  </div>
+  <div class="legend-item">
+    <span style="display:inline-block;width:14px;height:14px;background:#fff;border:2px dashed #4a7fc1;border-radius:3px;"></span>
+    A の論理的弱点・付言（破線）
+  </div>
+  <div class="legend-item">
+    <span style="display:inline-block;width:14px;height:14px;background:#fde8d0;border:2px solid #d4803a;border-radius:3px;"></span>
+    B の構成要素（実線）
+  </div>
+  <div class="legend-item">
+    <div class="legend-arrow"></div>
+    B が A の対応要素に反論
+  </div>
+</div>
+
+</body>
+</html>
